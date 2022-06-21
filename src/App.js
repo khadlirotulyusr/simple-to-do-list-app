@@ -1,7 +1,5 @@
 import React from "react";
 import "./App.css";
-import { Button, Card, Form } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import SubmitForm from "./components/SubmitForm/SubmitForm";
 import TaskList from "./components/Task/TaskList";
 
